@@ -14,9 +14,11 @@
 ```ruby
 def my_great_method
   puts "here it is"
-end    
+end 
+```   
 
 ```javascript
 const my_great_method = () => {
   console.log('Here it is');
 })
+```
